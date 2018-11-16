@@ -1,4 +1,5 @@
-# Country-select
+
+# Country-select  ![GitHub Logo](https://raw.githubusercontent.com/enigmatic7earth/Country-select/master/Country-Dropdown/Assets.xcassets/AppIcon.appiconset/Icon-72.png)
 A simple dropdown menu to select a country from a UITableView
 ### Screen 1
 ![Screen 1](https://github.com/enigmatic7earth/Country-select/blob/master/Country-Dropdown/screenshot%201.png)
