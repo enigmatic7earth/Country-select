@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F377C407216B2D8900F10424 /* counrtyList.plist in Resources */ = {isa = PBXBuildFile; fileRef = F377C406216B2D8900F10424 /* counrtyList.plist */; };
+		F377C407216B2D8900F10424 /* countryList.plist in Resources */ = {isa = PBXBuildFile; fileRef = F377C406216B2D8900F10424 /* countryList.plist */; };
 		F3A191AC2168E00E00288078 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A191AB2168E00E00288078 /* AppDelegate.swift */; };
 		F3A191AE2168E00E00288078 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A191AD2168E00E00288078 /* ViewController.swift */; };
 		F3A191B12168E00E00288078 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3A191AF2168E00E00288078 /* Main.storyboard */; };
@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F377C406216B2D8900F10424 /* counrtyList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = counrtyList.plist; sourceTree = "<group>"; };
+		F377C406216B2D8900F10424 /* countryList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = countryList.plist; sourceTree = "<group>"; };
 		F3A191A82168E00E00288078 /* Country-Dropdown.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Country-Dropdown.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3A191AB2168E00E00288078 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F3A191AD2168E00E00288078 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 				F3A191B22168E02100288078 /* Assets.xcassets */,
 				F3A191B42168E02100288078 /* LaunchScreen.storyboard */,
 				F3A191B72168E02100288078 /* Info.plist */,
-				F377C406216B2D8900F10424 /* counrtyList.plist */,
+				F377C406216B2D8900F10424 /* countryList.plist */,
 			);
 			path = "Country-Dropdown";
 			sourceTree = "<group>";
@@ -128,7 +128,7 @@
 				F3A191B62168E02100288078 /* LaunchScreen.storyboard in Resources */,
 				F3A191B32168E02100288078 /* Assets.xcassets in Resources */,
 				F3A191B12168E00E00288078 /* Main.storyboard in Resources */,
-				F377C407216B2D8900F10424 /* counrtyList.plist in Resources */,
+				F377C407216B2D8900F10424 /* countryList.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
